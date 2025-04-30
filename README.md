@@ -9,6 +9,10 @@ This script is a standalone resource for FiveM that implements an armory system.
 *   Flexible configuration via `config.lua`.
 *   Client-side logic (`client/main.lua`) and server-side logic (`server/main.lua`).
 
+## Known issue:
+
+*   Ammunition stock not incremented upon purchase
+
 ## Planned Update:
 
 *  Support for the ESX framework's money system if installed (currently, purchases are automatically validated without verification)
