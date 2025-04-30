@@ -9,6 +9,10 @@ This script is a standalone resource for FiveM that implements an armory system.
 *   Flexible configuration via `config.lua`.
 *   Client-side logic (`client/main.lua`) and server-side logic (`server/main.lua`).
 
+## Planned Update:
+
+*  Support for the ESX framework's money system if installed (currently, purchases are automatically validated without verification)
+
 ## Configuration
 
 The main configuration is located in the `config.lua` file. You can adjust:
